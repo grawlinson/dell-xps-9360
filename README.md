@@ -12,6 +12,6 @@ even a service manual in here!
 * Thunderbolt (NVM21)
 
 NOTE: Unfortunately, most of the firmware files only work in Windows
-althought you can boot to a 'live-USB' version in order to install.
+although you can boot to a 'live-USB' version in order to install.
 
 The BIOS can be updated via `fwupd` utility.
