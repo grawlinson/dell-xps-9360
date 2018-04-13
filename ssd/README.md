@@ -172,16 +172,56 @@ SHA1 - 2087a9f83ed8a31c9f53dfdd32f833b48f645428
 
 SHA-256 - cd5aa8be6bb4377da6cc3ce3ff7a3f4f137ac90b22e6c838e75cd1ec1a12b7e1
 
+## Toshiba KXG50 non-SED Solid State Drive Firmware Update
+
+This package provides the firmware for Toshiba KXG50ZNV256G 256GB, KXG50ZNV512G
+512GB and KXG50ZNV1T02 1TB non-SED M.2 2280, Revision AADA4104, and is supported
+on Latitude, OptiPlex, Vostro, Inspiron, Precision, Alienware and XPS models
+running the following Windows operating systems: Windows 7, Windows 8, Windows
+8.1 and Windows 10 64-bit only.
+
+### Version
+
+Versión AADA4104, A00
+
+### Fixes & Enhancements
+
+1. Fixed issue encountered during drive refresh in corner condition
+2. Fixed SMART reporting to be in line with industry practice
+3. Improvements to Data Recovery in corner condition
+
+### Dates
+
+Release - 12 Abr 2018
+
+Updated - 12 Abr 2018
+
+### File
+
+Format - Hard-Drive
+
+Name - Toshiba XG5 Non-SED 81F76_ZPE.exe
+
+### Checksums
+
+MD5 - 5e87f6cf33781c15e4a229500fefeb40
+
+SHA1 - ef428f2b4150e8290c7cd436e8344bc90af28774
+
+SHA-256 - 5a5637f370f2387f4ad997141b2066cc19eb2f9515003a91835ef0cbc8b04e46
+
 ## Links
 
-* [Toshiba][toshiba]
+* [Toshiba XG4][toshibaXG4]
 * [Hynix][hynix]
 * [LiteOn CV3][liteon-cv3]
 * [LiteOn CX2][liteon-cx2]
 * [SanDisk][sandisk]
+* [Toshiba XG50][toshibaXG50]
 
-[toshiba]:http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=T0X0P
+[toshibaXG4]:http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=T0X0P
 [hynix]:http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=PJDRD
 [liteon-cv3]:http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=59XNJ
 [liteon-cx2]:http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=CWX68
 [sandisk]:http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=349VH
+[toshibaXG50]:http://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=81F76
