@@ -4,22 +4,22 @@ This package provides the firmware update for Intel Thunderbolt 3 and is support
 
 ## Version
 
-3.21.00.008, A00
+4.26.13.001, A03
 
 ## Dates
 
-Release - 17 Jan 2017
+Release - 4 Apr 2018
 
-Updated - 13 Mar 2017
+Updated - 4 Apr 2018
 
 ## File
 
 Format - Windows/DOS
 
-Name - Intel_TBT3_FW_UPDATE_NVM21_0THFT_A00_3.21.00.008.exe
+Name - Intel_TBT3_FW_UPDATE_NVM26_4FC9M_A03_4.26.13.001.exe
 
 ### Links
 
 * [Thunderbolt 3][tb3]
 
-[tb3]:http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=0THFT
+[tb3]:http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=4FC9M
