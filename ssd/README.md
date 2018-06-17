@@ -1,6 +1,6 @@
 # SSD
 
-Firmware updates for various SSD drives sold with the xps 13.
+Firmware updates for various SSD drives sold with the XPS 13
 
 ## Toshiba XG4 non-SED Solid State Drive Firmware Update
 
@@ -142,7 +142,10 @@ SHA-256 - 033315a5dd53b6d471336104c2bfb0806e6d33d87cc498f259e9a12c25c3152b
 
 ## SanDisk X400 Series SSD Firmware Update
 
-This package provides the SanDisk X400 Series Firmware Update and is supported on Alienware, Inspiron, Latitude, Optiplex, Precision, Vostro and XPS models that are running the following Windows Operating System: Windows 7, Windows 8.1 and Windows 10.
+This package provides the SanDisk X400 Series Firmware Update and is supported
+on Alienware, Inspiron, Latitude, Optiplex, Precision, Vostro and XPS models
+that are running the following Windows Operating System: Windows 7, Windows 8.1
+and Windows 10.
 
 ### Version
 
@@ -181,8 +184,33 @@ running the following Windows operating systems: Windows 7, Windows 8, Windows
 8.1 and Windows 10 64-bit only.
 
 ### Version
+Version AADA4105, A00
 
-Versión AADA4104, A00
+### Fixes & Enhancements
+
+1. Fixed write performance issue encountered on specific workload.
+
+### Dates
+
+Release date - 31 May 2018
+
+Updated - 13 Jun 2018
+
+### File
+
+Format - Hard-Drive
+
+Name - Toshiba XG5_nonSED_ KXG50ZNV256G_512G_1T02_C0PF8_ZPE.exe
+
+### Checksums
+
+MD5 - ca396252f92a809bd513591794981eff
+SHA1 - f2878f15f82ba871e4d14e583f982eecc4ac43b5
+SHA-256 - ae8eaed05ddfbdc1b5f5ad90b8632916139fd7ec72bb58974a2dfe0162390186
+
+### Version
+
+Version AADA4104, A00
 
 ### Fixes & Enhancements
 
@@ -217,11 +245,12 @@ SHA-256 - 5a5637f370f2387f4ad997141b2066cc19eb2f9515003a91835ef0cbc8b04e46
 * [LiteOn CV3][liteon-cv3]
 * [LiteOn CX2][liteon-cx2]
 * [SanDisk][sandisk]
-* [Toshiba XG50][toshibaXG50]
+* Toshiba XG50 [#1][toshibaXG50_1] [#2][toshibaXG50_2]
 
 [toshibaXG4]:http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=T0X0P
 [hynix]:http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=PJDRD
 [liteon-cv3]:http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=59XNJ
 [liteon-cx2]:http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=CWX68
 [sandisk]:http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=349VH
-[toshibaXG50]:http://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=81F76
+[toshibaXG50_1]:http://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=81F76
+[toshibaXG50_2]:http://www.dell.com/support/home/us/en/bsd/Drivers/DriversDetails?driverId=C0PF8
