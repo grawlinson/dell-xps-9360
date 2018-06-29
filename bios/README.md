@@ -36,6 +36,11 @@
 * Updated Embedded Controller Engine Firmware.
 * Updated Realtek USB LAN firmware.
 
+### 2.7.1
+
+* Improve startup stability when the RTC battery voltage is low
+* Support eGFX devices
+
 ### Links
 
 * [1.3.2][bios132]
@@ -44,6 +49,7 @@
 * [2.4.2][bios242]
 * [2.5.1][bios251]
 * [2.6.2][bios262]
+* [2.7.1][bios271]
 
 [bios132]: http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=4F61T
 [bios135]: http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=8C84P
@@ -51,3 +57,4 @@
 [bios242]: http://www.dell.com/support/home/nz/en/nzdhs1/drivers/driversdetails?driverId=YFTT1
 [bios251]: http://www.dell.com/support/home/nz/en/nzdhs1/drivers/driversdetails?driverId=FW1RC
 [bios262]: http://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=G05NR
+[bios271]: https://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=KXP8F
