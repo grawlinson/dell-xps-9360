@@ -46,6 +46,14 @@
 * Updated Intel ME Firmware to address security advisories INTEL-SA-00112 (CVE-2018-3628 CVE-2018-3629 CVE-2018-3632) & INTEL-SA-00118(CVE-2018-3627)
 * Updated CPU microcode to address security advisory Intel Security Advisory INTEL-SA-00115 (CVE-2018-3639 & CVE-2018-3640)
 
+### 2.9.0
+
+* Update Intel ME Firmware to address security advisories INTEL-SA-00125 (CVE-2018-3655), Intel-SA-00131 (CVE-2018-3643 CVE-2018-3644) & INTEL-SA-00141 (CVE-2018-3657 CVE-2018-3658 CVE-2018-3616)
+* Fixed a potential system hang issue when an incorrectly formatted password is
+  entered at the BIOS Security Manager (BIOS pre-boot password) prompt.
+* Enhance Killer Wifi stability.
+* Added TPM PPI Bypass for Clear Command support.
+
 ### Links
 
 * [1.3.2][bios132]
@@ -56,6 +64,7 @@
 * [2.6.2][bios262]
 * [2.7.1][bios271]
 * [2.8.1][bios281]
+* [2.9.0][bios290]
 
 [bios132]: http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=4F61T
 [bios135]: http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=8C84P
@@ -65,3 +74,4 @@
 [bios262]: http://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=G05NR
 [bios271]: https://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=KXP8F
 [bios281]: https://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=8M0KH
+[bios290]: https://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=RCKDK
