@@ -54,6 +54,14 @@
 * Enhance Killer Wifi stability.
 * Added TPM PPI Bypass for Clear Command support.
 
+### 2.10.0
+
+* Added BIOS Password Feature: Master Password Lockout.
+* Enhanced the stability of Linux operating system.
+* Fixed the issue where random programs launch unexpectedly when multiple keys
+  are pressed together.
+* Improved keyboard typing experience for users.
+
 ### Links
 
 * [1.3.2][bios132]
@@ -65,6 +73,7 @@
 * [2.7.1][bios271]
 * [2.8.1][bios281]
 * [2.9.0][bios290]
+* [2.10.0][bios2100]
 
 [bios132]: http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=4F61T
 [bios135]: http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=8C84P
@@ -75,3 +84,4 @@
 [bios271]: https://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=KXP8F
 [bios281]: https://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=8M0KH
 [bios290]: https://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=RCKDK
+[bios2100]: https://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=T7XJF
