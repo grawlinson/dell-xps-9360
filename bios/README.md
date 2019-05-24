@@ -62,6 +62,14 @@
   are pressed together.
 * Improved keyboard typing experience for users.
 
+### 2.11.0
+
+* Fixed an issue with Secure Boot Option ROM Signature Verification.
+* Firmware updates to address security advisory INTEL-SA-00185 (CVE-2018-12188 CVE-2018-12190 CVE-2018-12191 CVE-2018-12192 CVE-2018-12199 CVE-2018-12198 CVE-2018-12200 CVE-2018-12187 CVE-2018-12196 CVE-2018-12185).
+* Firmware updates to address security advisories INTEL-SA-00191(CVE-2018-12201, CVE-2018- 12202, CVE-2018-12203).
+* Fixes the issue where the mouse lags when the Dell TB16 dock is unplugged or plugged in.
+* Supports Dell Dock Station WD19.
+
 ### Links
 
 * [1.3.2][bios132]
@@ -85,3 +93,4 @@
 [bios281]: https://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=8M0KH
 [bios290]: https://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=RCKDK
 [bios2100]: https://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=T7XJF
+[bios[211]: https://www.dell.com/support/home/nz/en/nzdhs1/drivers/driversdetails?driverid=R5TYT
