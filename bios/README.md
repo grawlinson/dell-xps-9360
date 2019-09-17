@@ -93,4 +93,5 @@
 [bios281]: https://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=8M0KH
 [bios290]: https://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=RCKDK
 [bios2100]: https://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=T7XJF
-[bios[211]: https://www.dell.com/support/home/nz/en/nzdhs1/drivers/driversdetails?driverid=R5TYT
+[bios211]: https://www.dell.com/support/home/nz/en/nzdhs1/drivers/driversdetails?driverid=R5TYT
+
