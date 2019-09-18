@@ -70,6 +70,13 @@
 * Fixes the issue where the mouse lags when the Dell TB16 dock is unplugged or plugged in.
 * Supports Dell Dock Station WD19.
 
+### 2.12.0
+
+* Firmware updates to address security advisory INTEL-SA-00213 (CVE-2019-0086, CVE-2019-0091, CVE-2019-0092, CVE-2019-0093, CVE-2019-0094 and CVE-2019-0096)
+* Firmware updates to address security advisories INTEL-SA-00233(CVE-2018-12126, CVE-2018-12127, CVE-2018-12130 and CVE-2019-11091)
+* Removed the pre-boot Intel RST Manager Optimized Defaults option.
+* Fixed the issue where BitLocker may prompt for recovery if Auto Power On option in BIOS setup is set to wake up system at a specific time.
+
 ### Links
 
 * [1.3.2][bios132]
@@ -82,6 +89,8 @@
 * [2.8.1][bios281]
 * [2.9.0][bios290]
 * [2.10.0][bios2100]
+* [2.11.0][bios211]
+* [2.12.0][bios212]
 
 [bios132]: http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=4F61T
 [bios135]: http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=8C84P
@@ -94,4 +103,4 @@
 [bios290]: https://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=RCKDK
 [bios2100]: https://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=T7XJF
 [bios211]: https://www.dell.com/support/home/nz/en/nzdhs1/drivers/driversdetails?driverid=R5TYT
-
+[bios212]: https://www.dell.com/support/home/nz/en/nzbsd1/drivers/driversdetails?driverid=02gcf
