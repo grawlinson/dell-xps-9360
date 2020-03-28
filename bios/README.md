@@ -77,6 +77,17 @@
 * Removed the pre-boot Intel RST Manager Optimized Defaults option.
 * Fixed the issue where BitLocker may prompt for recovery if Auto Power On option in BIOS setup is set to wake up system at a specific time.
 
+### 2.13.0
+
+* Firmware updates to address security advisory INTEL-SA-00241 (CVE-2019-0169, CVE-2019-11088, CVE-2019-11104, CVE-2019-0131, CVE-2019-11090, CVE-2019-0166, CVE-2019-0168, CVE-2019-11087, CVE-2019-11101, CVE-2019-11100, CVE-2019-11106, CVE-2019-11132, CVE-2019-11131, and CVE-2019-11147).
+* Firmware updates to address Intel security advisories INTEL-SA-00260 (CVE-2019-0154) and INTEL-SA-00254 (CVE-2019-0185).
+* Firmware updates to address Intel security advisories INTEL-SA-00219 (CVE-2019-0117), INTEL-SA-00220 (CVE-2019-0123), and INTEL-SA-00270 (CVE-2019-11135).
+* Fixed a BIOS Setup configuration issue that occurs after clearing the CMOS.
+* Fixed an issue with preboot TPM detection and error logging.
+* Removed the IpSec driver and application.
+* Fixed the issue where the BitLocker prompts for recovery. It occurs when Auto Power On option in BIOS setup is set to wake up the system at a specific time.
+* Added a new feature to automatically suspend BitLocker before upgrading the firmware. After the firmware upgrade is complete, BitLocker is automatically enabled.
+
 ### Links
 
 * [1.3.2][bios132]
@@ -91,6 +102,7 @@
 * [2.10.0][bios2100]
 * [2.11.0][bios211]
 * [2.12.0][bios212]
+* [2.13.0][bios213]
 
 [bios132]: http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=4F61T
 [bios135]: http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=8C84P
@@ -104,3 +116,4 @@
 [bios2100]: https://www.dell.com/support/home/es/es/esdhs1/drivers/driversdetails?driverId=T7XJF
 [bios211]: https://www.dell.com/support/home/nz/en/nzdhs1/drivers/driversdetails?driverid=R5TYT
 [bios212]: https://www.dell.com/support/home/nz/en/nzbsd1/drivers/driversdetails?driverid=02gcf
+[bios213]: https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=c9j4k
