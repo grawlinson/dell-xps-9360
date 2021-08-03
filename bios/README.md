@@ -108,6 +108,12 @@
 * Firmware updates to address the Intel Security Advisory INTEL-SA-00389 (CVE-2020-8694 and CVE-2020-8695).
 * Firmware updates to address the Intel Technical Advisory INTEL-TA-00473 (CVE-2020-24586, CVE-2020-24587, and CVE-2020-24588).
 
+### 2.16.0
+
+* Firmware updates to address the Intel Security Advisory INTEL-SA-00459 (CVE-2020-24507 and CVE-2020-8703).
+* Firmware updates to address the Intel Security Advisory INTEL-SA-00464 (CVE-2020-24512).
+* Firmware updates to address security vulnerabilities.
+
 ### Links
 
 * [1.3.2][bios132]
@@ -125,6 +131,7 @@
 * [2.13.0][bios213]
 * [2.14.2][bios2142]
 * [2.15.1][bios2151]
+* [2.16.0][bios2160]
 
 [bios132]: http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=4F61T
 [bios135]: http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=8C84P
@@ -141,3 +148,4 @@
 [bios213]: https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=c9j4k
 [bios2142]: https://www.dell.com/support/home/en-nz/drivers/driversdetails?driverid=0cy6w
 [bios2151]: https://www.dell.com/support/home/en-nz/drivers/driversdetails?driverid=pc6h3
+[bios2160]: https://www.dell.com/support/home/en-nz/drivers/driversdetails?driverid=v4581
