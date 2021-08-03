@@ -100,6 +100,14 @@
 * Fixed the issue where the SMM Security Mitigation gets disabled while loading BIOS defaults.
 * Fixed an issue with the hard drive master password reset not functioning.
 
+### 2.15.1
+
+* Firmware updates to address the Intel Technical Advisory INTEL-TA-00391 (CVE-2020-8753, CVE-2020-8745, CVE-2020-8705, CVE-2020-8757, CVE-2020-8756, CVE-2020-8760, CVE-2020-8751, CVE-2020-8754, CVE-2020-8747, CVE-2020-8746, CVE-2020-8749 CVE-2020-8752, CVE-2020-12303, CVE-2020-12355, and CVE-2020-12356).
+* Firmware updates to address the Intel Security Advisory INTEL-SA-00358 (CVE-2020-0587, CVE-2020-0591, CVE-2020-0592, and CVE-2020-0593).
+* Firmware updates to address the Intel Security Advisory INTEL-SA-00381 (CVE-2020-8696 and CVE-2020-8698).
+* Firmware updates to address the Intel Security Advisory INTEL-SA-00389 (CVE-2020-8694 and CVE-2020-8695).
+* Firmware updates to address the Intel Technical Advisory INTEL-TA-00473 (CVE-2020-24586, CVE-2020-24587, and CVE-2020-24588).
+
 ### Links
 
 * [1.3.2][bios132]
@@ -116,6 +124,7 @@
 * [2.12.0][bios212]
 * [2.13.0][bios213]
 * [2.14.2][bios2142]
+* [2.15.1][bios2151]
 
 [bios132]: http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=4F61T
 [bios135]: http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=8C84P
@@ -131,3 +140,4 @@
 [bios212]: https://www.dell.com/support/home/nz/en/nzbsd1/drivers/driversdetails?driverid=02gcf
 [bios213]: https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=c9j4k
 [bios2142]: https://www.dell.com/support/home/en-nz/drivers/driversdetails?driverid=0cy6w
+[bios2151]: https://www.dell.com/support/home/en-nz/drivers/driversdetails?driverid=pc6h3
