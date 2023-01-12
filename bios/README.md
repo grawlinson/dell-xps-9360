@@ -129,6 +129,10 @@
 * Firmware updates to address the Intel Security Advisory INTEL-SA-00527 (CVE-2021-0107, CVE-2021-0111, CVE-2021-0114, CVE-2021-0115, CVE-2021-0116, CVE-2021-0117, CVE-2021-0118, CVE-2021-0119, CVE-2021-0124, CVE-2021-0125, CVE-2021-0156).
 * Firmware updates to address the Intel Security Advisory INTEL-SA-00532 (CVE-2021-0127).
 
+### 2.20.0
+
+* Firmware updates to address security vulnerabilities including (Common Vulnerabilities and Exposures - CVE) such as CVE-2019-14584, CVE-2021-28210, CVE-2021-28211, CVE-2022-21123, CVE-2022-21125, CVE-2022-21127, CVE-2022-21166, CVE-2022-0005, CVE-2022-21151, CVE-2022-0004 and CVE-2022-21181.
+
 ### Links
 
 * [1.3.2][bios132]
@@ -150,6 +154,7 @@
 * [2.17.0][bios2170]
 * [2.18.0][bios2180]
 * [2.19.0][bios2190]
+* [2.20.0][bios2200]
 
 [bios132]: http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=4F61T
 [bios135]: http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=8C84P
@@ -170,3 +175,4 @@
 [bios2170]: https://www.dell.com/support/home/en-nz/drivers/driversdetails?driverid=wfgmn
 [bios2180]: https://www.dell.com/support/home/en-nz/drivers/driversdetails?driverid=dk08c
 [bios2190]: https://www.dell.com/support/home/en-nz/drivers/driversdetails?driverid=3gght
+[bios2220]: https://www.dell.com/support/home/en-nz/drivers/driversdetails?driverid=0h104
