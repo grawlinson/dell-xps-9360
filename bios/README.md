@@ -118,6 +118,11 @@
 
 * Firmware updates to address security vulnerabilities.
 
+### 2.18.0
+
+* Firmware updates to address the Intel Security Advisory INTEL-SA-00562 (CVE-2021-0157).
+* Firmware updates to address security vulnerabilities.
+
 ### Links
 
 * [1.3.2][bios132]
@@ -137,6 +142,7 @@
 * [2.15.1][bios2151]
 * [2.16.0][bios2160]
 * [2.17.0][bios2170]
+* [2.18.0][bios2180]
 
 [bios132]: http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=4F61T
 [bios135]: http://www.dell.com/support/home/nz/en/nzdhs1/Drivers/DriversDetails?driverId=8C84P
@@ -155,3 +161,4 @@
 [bios2151]: https://www.dell.com/support/home/en-nz/drivers/driversdetails?driverid=pc6h3
 [bios2160]: https://www.dell.com/support/home/en-nz/drivers/driversdetails?driverid=v4581
 [bios2170]: https://www.dell.com/support/home/en-nz/drivers/driversdetails?driverid=wfgmn
+[bios2180]: https://www.dell.com/support/home/en-nz/drivers/driversdetails?driverid=dk08c
